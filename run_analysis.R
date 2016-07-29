@@ -1,5 +1,5 @@
 library(data.table)
-
+# For the first dataset
 #Check if the file already exists,else create a new directory.
 if(!file.exists("./data"){
     dir.create("./data")
